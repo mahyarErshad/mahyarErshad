@@ -1,10 +1,12 @@
-### Hi there 👋
 
+[![mahyarErshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarErshad&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/mahyarErshad/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarErshad&langs_count=10&layout=compact)](https://github.com/mahyarErshad/github-readme-stats)  
+![](https://komarev.com/ghpvc/?username=mahyarErshad&label=PROFILE+VIEWS)
 <!--
 **mahyarErshad/mahyarErshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
