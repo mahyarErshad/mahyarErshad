@@ -20,8 +20,8 @@
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/sass.svg" alt="SASS" style="vertical-align:top; margin:4px">
+   <img src="https://camo.githubusercontent.com/79116549823abe64e68159060a01e0cf37d56e649446f07b9eee46c75a834eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3238324333343f6c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d333842324143" alt="Tailwind" style="vertical-align:top; margin:4px; height: 32px">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
    <img src="https://camo.githubusercontent.com/143b42838efad2c30d8e0d05eb3dea6996e52a03b99576d8318edffd9bdd6155/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3238324333343f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137384336" alt="TS" style="vertical-align:top; margin:4px; height: 32px;">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px">
-   <img src="https://camo.githubusercontent.com/79116549823abe64e68159060a01e0cf37d56e649446f07b9eee46c75a834eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3238324333343f6c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d333842324143" alt="Tailwind" style="vertical-align:top; margin:4px; height: 32px">
    </p>
