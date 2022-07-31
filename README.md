@@ -11,7 +11,6 @@
  </p>
  
 <a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahyarErshad&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" height="200px"/></a><a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarErshad&langs_count=10&layout=compact" height="200px"/></a>  
-![](https://komarev.com/ghpvc/?username=mahyarErshad&label=PROFILE+VIEWS)
   
   ### - Languages and Frameworks...
   <br />  
@@ -24,4 +23,7 @@
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
    <img src="https://camo.githubusercontent.com/143b42838efad2c30d8e0d05eb3dea6996e52a03b99576d8318edffd9bdd6155/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3238324333343f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137384336" alt="TS" style="vertical-align:top; margin:4px; height: 32px;">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px">
-   </p>
+   </p>  
+     <p align="center">
+<a href="https://info.flagcounter.com/ODAv"><img src="https://s11.flagcounter.com/countxl/ODAv/bg_FFFFFF/txt_000000/border_8E72DC/columns_8/maxflags_250/viewers_My+Visitors/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+     </p>
