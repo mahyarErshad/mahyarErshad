@@ -11,7 +11,7 @@
  </p>
  
 <a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahyarErshad&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" height="200px"/></a><a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarErshad&langs_count=10&layout=compact" height="200px"/></a>  
-<p align="left">
+    <p align="left">
 ![](https://komarev.com/ghpvc/?username=mahyarErshad&label=PROFILE+VIEWS)
      </p>
   
