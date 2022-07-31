@@ -20,6 +20,7 @@
    <img src="./icons/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
    <img src="./icons/sass.svg" alt="SASS" style="vertical-align:top; margin:4px">
    <img src="./icons/tailwind.svg" alt="Tailwind" style="vertical-align:top; margin:4px; height: 32px">
+   <img src="./icons/mui.svg" alt="MUI" style="vertical-align:top; margin:4px; height: 32px">
    <img src="./icons/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
    <img src="./icons/ts.svg" alt="TypeScript" style="vertical-align:top; margin:4px; height: 32px">
    <img src="./icons/react.svg" alt="React" style="vertical-align:top; margin:4px">
