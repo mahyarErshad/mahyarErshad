@@ -10,7 +10,10 @@
 <a target="_blank" href="https://api.whatsapp.com/send/?phone=989120343545&text&type=phone_number&app_absent=0"><img src="./icons/whatsapp.svg" alt="Telegram" style="vertical-align:top; margin:6px 4px"></a>
  </p>
  
-<a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahyarErshad&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" height="200px"/></a><a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarErshad&langs_count=10&layout=compact" height="200px"/></a>  
+<a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahyarErshad&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" height="200px"/></a><a href="https://github.com/mahyarErshad"><img alt="Mahyar Ershad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarErshad&langs_count=10&layout=compact" height="200px"/></a> 
+          <p align="center">
+![](https://komarev.com/ghpvc/?username=mahyarErshad&label=PROFILE+VIEWS)
+     </p>
   
   ### - Languages and Frameworks...
   <br />  
@@ -25,7 +28,4 @@
    <img src="./icons/ts.svg" alt="TypeScript" style="vertical-align:top; margin:4px; height: 32px">
    <img src="./icons/react.svg" alt="React" style="vertical-align:top; margin:4px">
    <img src="./icons/nextjs.svg" alt="Next.js" style="vertical-align:top; margin:4px">
-   </p>   
-          <p align="center">
-<a href="https://info.flagcounter.com/ODAv"><img src="https://s11.flagcounter.com/countxl/ODAv/bg_FFFFFF/txt_000000/border_8E72DC/columns_8/maxflags_250/viewers_My+Visitors/labels_1/pageviews_1/flags_1/percent_0/" alt="My Visitors Counter" border="0"></a>
-     </p>
+   </p>
