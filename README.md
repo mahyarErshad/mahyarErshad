@@ -23,10 +23,7 @@
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
    <img src="https://camo.githubusercontent.com/143b42838efad2c30d8e0d05eb3dea6996e52a03b99576d8318edffd9bdd6155/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3238324333343f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137384336" alt="TS" style="vertical-align:top; margin:4px; height: 32px;">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px">
-   </p>  
-     <p align="center">
-<a href="https://info.flagcounter.com/ODAv"><img src="https://s11.flagcounter.com/countxl/ODAv/bg_FFFFFF/txt_000000/border_8E72DC/columns_8/maxflags_250/viewers_My+Visitors/labels_1/pageviews_1/flags_1/percent_0/" alt="My Visitors" border="0"></a>
-     </p>  
+   </p>   
           <p align="center">
 <a href="https://www.flagcounter.me/details/cXW"><img src="https://www.flagcounter.me/cXW/" alt="Flag Counter"></a>
      </p>
