@@ -33,8 +33,6 @@
    <img src="./icons/ts.svg" alt="TypeScript" style="vertical-align:top; margin:4px; height: 32px">
    <img src="./icons/react.svg" alt="React" style="vertical-align:top; margin:4px">
    <img src="./icons/nextjs.svg" alt="Next.js" style="vertical-align:top; margin:4px">
-   </p>       
-        
- 
-![](https://komarev.com/ghpvc/?username=mahyarErshad&label=PROFILE+VIEWS)
+   </p>  
+   <a href="https://github.com/mahyarErshad/"><img alt="Views" src="https://komarev.com/ghpvc/?username=mahyarErshad&label=PROFILE+VIEWS"/></a>
 
