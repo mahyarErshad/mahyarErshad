@@ -15,9 +15,6 @@
   <p align='center'>
  <a href="https://github.com/mahyarErshad/"><img alt="Mahyar Ershad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarErshad&langs_count=10&layout=compact" height="200px" /></a>
  </p>  
-   <p align='center'>
-  <a href="https://github.com/mahyarErshad/"><img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mahyarErshad"/></a>
-  </p> 
 
   
   ### - Languages and Frameworks...
