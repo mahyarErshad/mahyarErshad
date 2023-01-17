@@ -5,6 +5,7 @@
 </div>
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/mahyar-ershad-52ba9a239/"><img src="./icons/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
+<a target="_blank" href="https://www.instagram.com/mahyarershad/"><img src="./icons/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
 <a target="_blank" href="mailto:mahyar.ershad92@gmail.com"><img src="./icons/gmail.svg" alt="Telegram" style="vertical-align:top; margin:6px 4px"></a>
 <a target="_blank" href="https://join.skype.com/invite/B6BIyuVSgp4i"><img src="./icons/skype.svg" alt="Skype" style="vertical-align:top; margin:6px 4px"></a>
 <a target="_blank" href="https://t.me/mahyarErshad"><img src="./icons/telegram.svg" alt="Telegram" style="vertical-align:top; margin:6px 4px"></a>
