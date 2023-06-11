@@ -17,7 +17,7 @@
     
       
     
-| <a href="https://github.com/mahyarErshad/"><img align="center" src="https://github-readme-stats-one-silk.vercel.app/api?username=mahyarErshad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahyar's github stats" /></a> | <a href="https://github.com/mahyarErshad/"><img align="center" src="https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=mahyarErshad&layout=compact&theme=buefy&hide_border=true&langs_count=10" /></a> |
+| <a href="https://github.com/mahyarErshad/"><img align="center" src="https://github-readme-stats-mahyarershad.vercel.app/api?username=mahyarErshad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahyar's github stats" /></a> | <a href="https://github.com/mahyarErshad/"><img align="center" src="https://github-readme-stats-mahyarershad.vercel.app/api/top-langs/?username=mahyarErshad&layout=compact&theme=buefy&hide_border=true&langs_count=10" /></a> |
 | ------------- | ------------- |  
   
   ### - Languages and Frameworks...
