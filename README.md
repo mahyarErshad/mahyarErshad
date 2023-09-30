@@ -28,5 +28,9 @@
    <img src="./icons/react.svg" alt="React" style="vertical-align:top; margin:4px">
    <img src="./icons/nextjs.svg" alt="Next.js" style="vertical-align:top; margin:4px">
    </p>  
+   
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarErshad&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+     
    <a href="https://github.com/mahyarErshad/"><img alt="Views" src="https://komarev.com/ghpvc/?username=mahyarErshad&label=PROFILE+VIEWS"/></a>
+   
 
